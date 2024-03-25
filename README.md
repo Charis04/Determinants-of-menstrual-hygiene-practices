@@ -1,2 +1,2 @@
-##Determinants of Menstrual Hygiene Practice Among Secondary School Students
+## Determinants of Menstrual Hygiene Practice Among Secondary School Students
 This project analyzes data from an academic research project investigating the factors influencing menstrual hygiene practices among secondary school girls in Malete, Kwara State, Nigeria. The goal is to identify key determinants that can inform interventions and educational programs to promote menstrual hygiene awareness and management in this population.
